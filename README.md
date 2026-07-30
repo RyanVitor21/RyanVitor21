@@ -68,12 +68,13 @@
 <div style="text-align: center;" align="center">
   <h3>* GitHub Activity *</h3>
   <br>
-  <!-- Card de Sequência de Commits (Streak) - Tema Verde/Preto -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RyanVitor21&theme=dark&background=000000&border=113f17&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideTitle=00FF66" alt="GitHub Streak" />
-  
+
+  <!-- Card de Sequência de Commits (Streak) -->
+  <img src="https://streak-stats.demolab.com/?user=RyanVitor21&theme=dark&background=000000&border=113f17&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideTitle=00FF66" alt="GitHub Streak" />
+
   <br><br>
 
-  <!-- Gráfico de Atividade de Commits - Tema Verde/Preto -->
+  <!-- Gráfico de Atividade -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanVitor21&theme=react-dark&bg_color=000000&color=00FF66&line=00FF66&point=FFFFFF&area=true&hide_border=false" alt="Activity Graph" width="100%" />
 </div>
 
