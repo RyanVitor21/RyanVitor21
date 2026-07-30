@@ -55,11 +55,15 @@
 #
 
 <div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
+  <h3>* GitHub Activity *</h3>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=RyanVitor21&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
+  <!-- Card de Sequência de Commits (Streak) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RyanVitor21&theme=dark&background=000000&border=36123c&stroke=FF00F6&ring=FF00F6&fire=FF00F6&currStreakLabel=FF00F6" alt="GitHub Streak" />
+  
+  <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanVitor21&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+  <!-- Gráfico de Atividade de Commits -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanVitor21&theme=react-dark&bg_color=000000&color=FF00F6&line=FF00F6&point=FFFFFF&area=true&hide_border=false" alt="Activity Graph" width="100%" />
 </div>
 
 #
